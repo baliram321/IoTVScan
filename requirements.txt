@@ -1,0 +1,4 @@
+pytest
+paramiko
+beautifulsoup4
+colorama

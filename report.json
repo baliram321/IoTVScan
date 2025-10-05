@@ -1,0 +1,293 @@
+{
+  "scan_time": "2025-09-07T07:45:12.585713",
+  "results": [
+    {
+      "ip": "192.168.3.1",
+      "hostname": "192.168.3.1",
+      "ports": [
+        {
+          "port": 21,
+          "state": "open|filtered",
+          "service": "FTP",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 22,
+          "state": "open|filtered",
+          "service": "SSH",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 23,
+          "state": "open|filtered",
+          "service": "Telnet",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 25,
+          "state": "open|filtered",
+          "service": "SMTP",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 53,
+          "state": "open|filtered",
+          "service": "DNS",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 80,
+          "state": "open|filtered",
+          "service": "HTTP",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 110,
+          "state": "open|filtered",
+          "service": "POP3",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 143,
+          "state": "open|filtered",
+          "service": "IMAP",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 161,
+          "state": "open|filtered",
+          "service": "SNMP",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 162,
+          "state": "open|filtered",
+          "service": "SNMP-Trap",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 443,
+          "state": "open|filtered",
+          "service": "HTTPS",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 502,
+          "state": "open|filtered",
+          "service": "Modbus",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 554,
+          "state": "open|filtered",
+          "service": "RTSP",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 993,
+          "state": "open|filtered",
+          "service": "IMAPS",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 995,
+          "state": "open|filtered",
+          "service": "POP3S",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 1883,
+          "state": "open|filtered",
+          "service": "MQTT",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 1900,
+          "state": "open|filtered",
+          "service": "UPnP",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 5000,
+          "state": "open|filtered",
+          "service": "UPnP-Device",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 5353,
+          "state": "open|filtered",
+          "service": "mDNS",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 5672,
+          "state": "open|filtered",
+          "service": "AMQP",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 5683,
+          "state": "open|filtered",
+          "service": "CoAP",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 5684,
+          "state": "open|filtered",
+          "service": "CoAPS",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 8080,
+          "state": "open|filtered",
+          "service": "HTTP-Alt",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 8086,
+          "state": "open|filtered",
+          "service": "InfluxDB",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 8443,
+          "state": "open|filtered",
+          "service": "HTTPS-Alt",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 8554,
+          "state": "open|filtered",
+          "service": "RTSP-Alt",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 8883,
+          "state": "open|filtered",
+          "service": "MQTT-SSL",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 9000,
+          "state": "open|filtered",
+          "service": "HTTP-Admin",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 9999,
+          "state": "open|filtered",
+          "service": "Telnet-Alt",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 34567,
+          "state": "open|filtered",
+          "service": "Hikvision",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 35000,
+          "state": "open|filtered",
+          "service": "Camera-Admin",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 37777,
+          "state": "open|filtered",
+          "service": "Dahua-DVR",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        },
+        {
+          "port": 49152,
+          "state": "open|filtered",
+          "service": "Samsung-TV",
+          "version": "",
+          "banner": "",
+          "protocol": "udp"
+        }
+      ],
+      "os_guess": "Unknown",
+      "device_type": "IP Camera",
+      "vulnerabilities": [
+        {
+          "description": "SNMP service detected - may use default community strings",
+          "severity": "medium",
+          "recommendation": "Use SNMPv3 or disable SNMP if not needed",
+          "port": 161,
+          "vulnerability": "snmp_community"
+        },
+        {
+          "description": "UPnP service exposed - potential for device manipulation",
+          "severity": "medium",
+          "recommendation": "Disable UPnP if not required",
+          "port": 1900,
+          "vulnerability": "upnp_exposed"
+        }
+      ]
+    }
+  ]
+}

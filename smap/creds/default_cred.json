@@ -1,0 +1,7 @@
+{
+  "ftp": [["admin", "admin"], ["user", "password"]],
+  "http": [["user", "hostel"], ["root", "root"]],
+  "https": [["user", "hostel"], ["root", "root"]],
+  "ssh": [["root", "toor"], ["admin", "password"]],
+  "telnet": [["admin", "admin"], ["root", "root"]]
+}
